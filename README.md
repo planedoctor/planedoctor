@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="600x600_logo.png" width="150">
+</p>
 # HomeHackery
 
 ### Because "Stock" is Boring.
