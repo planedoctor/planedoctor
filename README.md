@@ -1,4 +1,4 @@
-<p align="center"><img src="600x600_logo.png" width="150"></p>
+<p align="center"><img src="600x600_logo.png" width="200"></p>
 
 # HomeHackery
 
